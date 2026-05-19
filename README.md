@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello!
+## [Linkedin](https://www.linkedin.com/in/thomas-medina/) | [Email](mailto:twmedina6@gmail.com)
+
+## About Me
+I recently graduated from The University of North Carolina at Charlotte with a Bachelor's in Computer Science. I am passionate about Full-Stack Development, AI and Machine Learning, and Databases. I am skilled in Python, Java, JavaScript, and many other languages. I love working with data and discovering the secrets of the world through numbers. I am seeking Full-Time employment in Software Development and IT. 
+
+## Currently working on:
+- Neoshelf - Minimal library and reader web app
+- Dotwell - Workflow desk assistant
+- Building a PC and diving down the Linux rabbit hole
 
 <!--
 **tmedina23/tmedina23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
